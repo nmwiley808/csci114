@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "csci114",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CSCI114_P1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CSCI114_P1-Debug-3a542d3d81cbf36db6f5.json",
+					"name" : "CSCI114_P1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CSCI114_P2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CSCI114_P2-Debug-844c23c5f92e6d82b038.json",
+					"name" : "CSCI114_P2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CSCI114_P3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CSCI114_P3-Debug-14a3871a1d64bfe729e9.json",
+					"name" : "CSCI114_P3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CSCI114_P4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CSCI114_P4-Debug-0d351e23c44d98f7036b.json",
+					"name" : "CSCI114_P4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CSCI114_P5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CSCI114_P5-Debug-aff2409ffce4dca31af2.json",
+					"name" : "CSCI114_P5",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/nmwiley.808/CLionProjects/csci114/cmake-build-debug",
+		"source" : "/Users/nmwiley.808/CLionProjects/csci114"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
