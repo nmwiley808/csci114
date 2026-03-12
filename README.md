@@ -41,11 +41,7 @@ The course emphasizes both **theoretical concepts and hands-on programming relat
 
 ```
 CSCI114/
-│
-├── homework_assignments/              # Homework Assignments
 ├── programming_assignments/           # Operating System Programming Assignments
-├── projects/                          # Course Projects
-├── notes/                             # Lecture Notes and Study Materials
 └── README.md                          # Repository Documentation
 ```
 
