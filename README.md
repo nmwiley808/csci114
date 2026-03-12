@@ -90,7 +90,7 @@ To compile a C++ program:
 g++ -std=c++11 program.cpp -o program
 ./program
 ```
-Projects are typically developed and run using **CLion**.
+Programming Assignments are typically developed and run using **CLion**.
 
 ---
 
