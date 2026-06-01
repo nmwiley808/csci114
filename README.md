@@ -41,7 +41,6 @@ The course emphasizes both **theoretical concepts and hands-on programming relat
 
 ```
 CSCI114/
-├── practice/                          # Operating System Practice Problems From Textbook
 ├── programming assignments/           # Operating System Programming Assignments
 └── README.md                          # Repository Documentation
 ```
